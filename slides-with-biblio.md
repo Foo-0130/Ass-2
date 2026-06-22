@@ -205,6 +205,26 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_press.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Temperature Impact
+**ANOVA Results (PartResistance):**
+
+- **Pr(>F) for Temperature:** 0.4964
+- **Is Temperature Significant?:** No
+
+**Analysis:**
+The resistance is evaluated against a USL of 10. We assess if varying the temperature significantly alters the product resistance.
+
+Using dataset `X008..3.`
+:::
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_temp.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
 
 ---
 # Bibliography
