@@ -185,6 +185,26 @@ At $P=100$ and $T=303$, there is a statistically significant difference in the l
 ![](media/pics/sample.png)
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Resistance Analysis
+**ANOVA Results (PartResistance):**
+
+- **Pr(>F) for Pressure:** 0.0000
+- **Is Pressure Significant?:** Yes
+
+**Observations:**
+Resistance is compared against the USL of 10. Lower values are preferred. 
+
+Using dataset `X008..3.`
+:::
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_press.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
 
 ---
 # Bibliography
