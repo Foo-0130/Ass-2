@@ -149,6 +149,24 @@ Using dataset `X008..3.`
 ![](media/pics/sample.png)
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Statistical Analysis: PartLength
+**Conditions:** $P=300, T=373$
+
+- **p-value:** 9.2773e-49
+- **Significant (α=0.05):** Yes
+
+**Conclusion:**
+At these specific settings, there is a statistically significant difference in `PartLength` between Machine 1 and Machine 2.
+:::
+
+::: {.column width='50%'}
+![](media/pics/sample.png)
+:::
+::::
 
 ---
 # Bibliography
