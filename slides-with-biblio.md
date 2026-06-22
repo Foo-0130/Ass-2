@@ -245,6 +245,26 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_inter.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Resistance vs USL
+**Specification Analysis:**
+
+- **Upper Specification Limit (USL):** 10.0
+- **Target:** Lower is better
+
+**Visual Analysis:**
+The boxplot now includes a red dashed line representing the USL. We can observe how many parts produced at different pressures fall near or exceed the threshold.
+
+Using dataset `X008..3.`
+::: 
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_press_usl.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
 
 ---
 # Bibliography
