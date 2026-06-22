@@ -186,3 +186,23 @@ Using dataset `X008..3.`
 <iframe data-src='media/plots/m1_res_temp.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Machine 1: Interaction Analysis
+**ANOVA Results (PartResistance):**
+
+- **Pr(>F) for P*T Interaction:** 0.8862
+- **Is Interaction Significant?:** No
+
+**Analysis:**
+We assess if the effect of Pressure on resistance depends on the Temperature setting. Lower resistance is better (USL=10).
+
+Using dataset `X008..3.`
+::: 
+
+::: {.column width='50%'}
+<iframe data-src='media/plots/m1_res_inter.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
