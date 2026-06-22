@@ -167,6 +167,24 @@ At these specific settings, there is a statistically significant difference in `
 ![](media/pics/sample.png)
 :::
 ::::
+---
+
+:::: {.columns}
+::: {.column width='50%'}
+### Comparative Analysis: PartLength
+**Conditions:** $P=100, T=303$
+
+- **Exact p-value:** 2.7687e-43
+- **Significant (α=0.05):** Yes
+
+**Conclusion:**
+At $P=100$ and $T=303$, there is a statistically significant difference in the length produced by Machine 1 vs Machine 2.
+:::
+
+::: {.column width='50%'}
+![](media/pics/sample.png)
+:::
+::::
 
 ---
 # Bibliography
